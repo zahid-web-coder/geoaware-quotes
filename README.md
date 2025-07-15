@@ -19,7 +19,42 @@ People often browse for motivation during commute or low attention moments. This
 - Tailwind CSS
 - TypeScript
 
-## 🚀 Live Demo
-Deployed on Vercel: https://your-vercel-link.vercel.app
-
 ## 📁 Folder Structure
+
+geoaware-quotes/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── Location.tsx
+│ │ ├── NetworkStatus.tsx
+│ │ └── QuoteSection.tsx
+│ ├── App.tsx
+│ ├── main.tsx
+│ └── index.css
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── vite.config.ts
+├── package.json
+└── README.md
+
+
+---
+
+## ✅ Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/zahid-web-coder/geoaware-quotes.git
+cd geoaware-quotes```
+2. Install dependencies
+npm install
+3. Start the development server
+npm run dev
+📦 Build for Production
+npm run build
+
+🙌 Author
+Made with ❤️ by Mohammed Zahid for the TAP Invest assignment.
