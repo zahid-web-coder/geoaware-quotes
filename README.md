@@ -49,12 +49,14 @@ geoaware-quotes/
 ```bash
 git clone https://github.com/zahid-web-coder/geoaware-quotes.git
 cd geoaware-quotes```
-2. Install dependencies
+
+### 2. Install dependencies
 npm install
-3. Start the development server
+
+### 3. Start the development server
 npm run dev
-📦 Build for Production
+### 📦 Build for Production
 npm run build
 
-🙌 Author
+### 🙌 Author
 Made with ❤️ by Mohammed Zahid for the TAP Invest assignment.
